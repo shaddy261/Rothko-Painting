@@ -30,3 +30,7 @@
     border-radius: 8px 10px;
     transform: rotate(0.4deg);
   }
+  .one, .two {
+    filter: blur(1px);
+  }
+  
